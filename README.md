@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  !(https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244)
+  !(https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244.gif)
 </div>
 
 ---
