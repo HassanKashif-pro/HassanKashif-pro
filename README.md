@@ -8,8 +8,7 @@
 
 
 <div align="center">
-  !(![image](https://github.com/user-attachments/assets/247eb086-2e93-4c3b-aa30-02c9413ccf23)
-)
+  <img src="https://i.gifer.com/7efs.gif" width="200px" alt="Mario Chill" />
 </div>
 
 ---
